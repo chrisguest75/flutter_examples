@@ -6,11 +6,13 @@ TODO:
 
 * Sound recorder
 
+## Prerequisites
+
 ```sh
 brew install android-studio
 brew install flutter
 
-# add the android sdk manager 
+# add the android sdk manager in android studio
 
 flutter doctor
 
@@ -18,9 +20,18 @@ flutter doctor --android-licenses
 
 sudo gem install cocoapods
 
+# ensure everything is green
+flutter doctor
+```
 
+## VSCode
 
+NOTES:
 
+* Select the device in the bottom right corner.  
+* Run using run and debug
+
+```sh
 code --install-extension dart-code.flutter
 ```
 
