@@ -35,6 +35,16 @@ NOTES:
 code --install-extension dart-code.flutter
 ```
 
+## 01 - Basic Project
+
+A new Flutter project.  
+Steps [README.md](./01_basic_project/README.md)  
+
+## 02 - Skeleton
+
+Build an app following a tutorial from a skeleton.  
+Steps [README.md](./02_skeleton/README.md)  
+
 ## Resources
 
 https://docs.flutter.dev/
