@@ -93,7 +93,13 @@ Cocoa
 https://guides.cocoapods.org/using/getting-started.html#installation
 
 
+https://stackoverflow.com/questions/54444538/how-do-i-run-test-my-flutter-app-on-a-real-device
+
 ## Troubleshooting
 
 Let’s be explicit about our intent(-filters)
 https://medium.com/androiddevelopers/lets-be-explicit-about-our-intent-filters-c5dbe2dbdce0
+
+
+https://pub.dev/packages/permission_handler
+
