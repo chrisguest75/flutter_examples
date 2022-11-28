@@ -19,7 +19,5 @@ Once you have selected a device to build for, F5 to run
 
 ## Resources
 
-https://www.raywenderlich.com/24499516-getting-started-with-flutter
-
-https://www.raywenderlich.com/22685966-dart-basics
-
+* Getting Started With Flutter [here](https://www.raywenderlich.com/24499516-getting-started-with-flutter)
+* Dart Basics [here](https://www.raywenderlich.com/22685966-dart-basics)  

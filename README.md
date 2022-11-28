@@ -83,23 +83,13 @@ Steps [README.md](./02_skeleton/README.md)
 ## Resources
 
 * Flutter docs [here](https://docs.flutter.dev/)
-https://docs.flutter.dev/get-started/install/macos
-
-https://gallery.flutter.dev/#/
-
-https://docs.flutter.dev/development/packages-and-plugins/using-packages
-
-Cocoa
-https://guides.cocoapods.org/using/getting-started.html#installation
-
-
-https://stackoverflow.com/questions/54444538/how-do-i-run-test-my-flutter-app-on-a-real-device
+* Flutter macOS install [here](https://docs.flutter.dev/get-started/install/macos)
+* Flutter gallery [here](https://gallery.flutter.dev/#/)
+* Using packages [here](https://docs.flutter.dev/development/packages-and-plugins/using-packages)  
+* CocoaPods manages library dependencies for your Xcode projects. [here](https://guides.cocoapods.org/using/getting-started.html#installation)  
+* How do I run/test my Flutter app on a real device? [here](https://stackoverflow.com/questions/54444538/how-do-i-run-test-my-flutter-app-on-a-real-device)  
 
 ## Troubleshooting
 
-Let’s be explicit about our intent(-filters)
-https://medium.com/androiddevelopers/lets-be-explicit-about-our-intent-filters-c5dbe2dbdce0
-
-
-https://pub.dev/packages/permission_handler
-
+* Let’s be explicit about our intent(-filters) [here](https://medium.com/androiddevelopers/lets-be-explicit-about-our-intent-filters-c5dbe2dbdce0)  
+* permission_handler 10.2.0 [here](https://pub.dev/packages/permission_handler)  
